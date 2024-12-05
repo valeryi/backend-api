@@ -44,7 +44,7 @@
     "graphql-shield": "7.2.3",
     "graphql-tools": "4.0.7",
     "js-base64": "2.5.2",
-    "jsonwebtoken": "8.5.1",
+    "jsonwebtoken": "9.0.0",
     "merge-graphql-schemas": "1.7.6",
     "moment": "2.24.0",
     "mongoose": "5.9.6",
